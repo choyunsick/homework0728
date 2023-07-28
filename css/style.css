@@ -271,8 +271,9 @@ figure .inner a:hover {
 }
 #brand .inner .wrap {
   width: 100%;
+  overflow: hidden;
 }
-#brand .inner .wrap article:nth-of-type(1) {
+#brand .inner article:nth-of-type(1) {
   width: 380px;
   height: 620px;
   background-color: #444;
@@ -281,22 +282,22 @@ figure .inner a:hover {
   padding: 170px 50px 0;
   margin-right: 20px;
 }
-#brand .inner .wrap article:nth-of-type(1) i {
+#brand .inner article:nth-of-type(1) i {
   font-size: 100px;
   color: #fff;
   margin-bottom: 20px;
 }
-#brand .inner .wrap article:nth-of-type(1) h2 {
+#brand .inner article:nth-of-type(1) h2 {
   font: bold 20px/1 "arial";
   color: #fff;
   margin-bottom: 30px;
 }
-#brand .inner .wrap article:nth-of-type(1) p {
+#brand .inner article:nth-of-type(1) p {
   font: 14px/1.3 "arial";
   color: #999;
   margin-bottom: 30px;
 }
-#brand .inner .wrap article:nth-of-type(1) a {
+#brand .inner article:nth-of-type(1) a {
   display: block;
   width: 150px;
   height: 30px;
@@ -305,34 +306,34 @@ figure .inner a:hover {
   border: 1px solid #bbb;
   margin: 0 auto;
 }
-#brand .inner .wrap article:nth-of-type(2) {
+#brand .inner article:nth-of-type(2) {
   width: 380px;
   height: 300px;
   float: left;
 }
-#brand .inner .wrap article:nth-of-type(2) img {
+#brand .inner article:nth-of-type(2) img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-#brand .inner .wrap article:nth-of-type(3) {
+#brand .inner article:nth-of-type(3) {
   width: 380px;
   height: 300px;
   float: left;
   margin-left: 20px;
 }
-#brand .inner .wrap article:nth-of-type(3) img {
+#brand .inner article:nth-of-type(3) img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-#brand .inner .wrap article:nth-of-type(4) {
+#brand .inner article:nth-of-type(4) {
   width: 780px;
   height: 300px;
   float: left;
   margin-top: 20px;
 }
-#brand .inner .wrap article:nth-of-type(4) img {
+#brand .inner article:nth-of-type(4) img {
   width: 100%;
   height: 100%;
   object-fit: cover;

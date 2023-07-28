@@ -16,6 +16,9 @@
           }
         .wrap{
             width: 100%;
+            overflow:hidden
+            }
+        
 
             article{
                 &:nth-of-type(1){
@@ -90,4 +93,4 @@
             }
         }  
     }
-}
+
